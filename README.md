@@ -1,4 +1,12 @@
-### Hi there 👋
+## Olá, eu sou o Gabriel! 👋
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsilco&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilco&layout=compact&langs_count=168&theme=dark" />
+  <a href="https://www.codewars.com/users/gabrielsilco">
+    <img src="https://www.codewars.com/users/gabrielsilco/badges/large" />
+  </a>
+</div>
 
 <!--
 **gabrielsilco/gabrielsilco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
